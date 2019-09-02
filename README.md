@@ -1,5 +1,5 @@
-## Monsters
-# A simple React page searching and listing monsters.
+# Monsters
+## A simple React page searching and listing monsters.
 
 This site is published at https://f6ai.github.io/monsters/.
 
